@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 5000px;;
+}
+/* MAIN */
+/* .main{
+    background-color: #F8F8F8;
+    padding-bottom: 30px;
+
+}
+.main .title{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 18px;
+    color: #636363;
+
+}
+.main .wrapper hr{
+    width: 50px;
+    border-color: #698417;
+    border-width: 3px;
+
+}
+.main .col-md-4:not(:last-child) .innerwrapper{
+    border-right: 1.5px solid #ebebeb;
+
+}
+.main .wrapper p{
+    color: #ababab;
+
+}
+.main .wrapper i{
+    position: absolute;
+    top: 50px;
+    right: 30px;
+    font-size: 3em;
+    color: #ababab;
+} */
+/* END OF MAIN */
+
+/* COUNT */
+/* .count{
+  
+    padding-bottom: 30px;
+
+}
+.count .title{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 18px;
+    color: #636363;
+
+}
+.count .container h2{
+    font: bold;
+}
+
+.count .wrapper p{
+    color: #ababab;
+
+}
+.count .wrapper i{
+    margin-top: 50px;
+    top: 50px;
+    right: 30px;
+    font-size: 3em;
+    color: #69B417;
+} */
+/* END OF COUNT */
+
+/* TEST */
+.test{
+    background-color: #F8F8F8;
+    padding-bottom: 30px;
+
+}
+.test .title{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 2px;
+    margin-bottom: 18px;
+    color: #636363;
+
+}
+
+.wrapper .name{
+    float:left;
+    font-size: 16px;
+    line-height: 1
+}
+.wrapper p{
+    float:right;
+    font-size: 16px;
+    line-height: 1
+}
+.test .wrapper p{
+    color: #ababab;
+
+}
+i{
+    font-size: 2em;
+    background-color: gray;
+}
+/* END OF TEST */
+
+
